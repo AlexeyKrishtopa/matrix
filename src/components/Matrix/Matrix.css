@@ -1,0 +1,6 @@
+.matrix {
+  display: flex;
+  max-width: 500px;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}
